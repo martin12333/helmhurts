@@ -1,10 +1,15 @@
 import Colors
 import Images
 
-const INFILE = "resources/floorplan-wf.png"
+
+
+###const INFILE = "resources/floorplan-wf.png"
+const INFILE = "resources/small-plan.png"
+
 const N_COLORS = 20
 
-const TX_POS = 425, 870
+###const TX_POS = 425, 870
+const TX_POS =  200, 330 #
 
 # -----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------

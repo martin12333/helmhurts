@@ -17,10 +17,18 @@ const λ = 0.12
 # k is the wavenumber
 const k = 2π/λ
 
-const INFILE = "resources/floorplan-wf.png"
+
+
+###const INFILE = "resources/floorplan-wf.png"
+const INFILE = "resources/small-plan.png"
+
 const N_COLORS = 20
 
-const txX, txY = 425, 870
+# source position
+###const txX, txY = 425, 870
+#######const txX, txY = 200, 360
+const txX, txY = 200, 330  # 220, 356
+
 
 # -----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------
